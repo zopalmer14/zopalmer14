@@ -1,6 +1,6 @@
 👋🏽 Hi, my name is Zach Palmer
 
-🎓 I am a junior pursuing a Bachelor's of Science in Computer Science and a minor in Applied Statistics. I expect to graduate in April 2023.
+🎓 I am a junior pursuing a Bachelor's of Science in Computer Science and a minor in Applied Statistics. I expect to graduate in May 2023.
 
 🌇 Buffalo native, with a passion for Data Science and Analytics.
 
