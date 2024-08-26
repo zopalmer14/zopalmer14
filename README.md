@@ -2,9 +2,9 @@
 
 🎓 I am a recent graduate from the University of Pittsburgh, receiving a BS in Computer Science, a BS in Data Science, and a minor in Applied Statistics
 
-📚 I am most interested in data science and full-stack development and am currently furthering my skills in my free time working on personal projects to showcase my skills. Within data science, I also have a particular interest in sports analytics, using positional data and other statistics to create models predicting team/player performance as well as using distributions of expected outcomes to inform decision making. 
+📚 I am interested in applying my skills in data science and full-stack development to improve the equity of outcomes and prevent exploitation of vulnerable populations. Within data science, I also have a particular interest in sports analytics, using positional data and other statistics to create models predicting team/player performance as well as using distributions of expected outcomes to inform decision making. 
 
-💻 In the future I hope to work as a Data Scientist/Analyst or Full-Stack Software Engineer at a company that offers me the opportunity to work with a diverse team doing impactful, fulfilling work in a collaborative environment focused on growth. I have attended multiple hackathons and coding competitions and have experience working in teams and collaborating with others under time crunches and in stressful situations. 
+💻 I am currently working with the Department of Commerce on AI Data & Strategy initiatives, as a Data Science & Analytics Fellow within GSA's Digital Corps program.  
 
 🏔 In my free time, you can find me rock climbing, playing soccer, reading, working on projects, or out in nature hiking or backpacking.
 
